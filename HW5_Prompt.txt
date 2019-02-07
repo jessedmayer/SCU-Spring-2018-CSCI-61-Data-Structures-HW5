@@ -1,0 +1,20 @@
+1. (5 pts.) Begin with an empty binary search tree
+
+a) Insert the letters S F E V D U J P O T into it in the given order. Show the tree after each insertion.
+
+b) Delete the above letters from the tree in the given order. Show the tree after each deletion.
+
+2. (5 pts.) Begin with an empty 2-3 tree (a B-tree where MAXIMUM is set to 2 - Hence each node has a max of 2 data elements and 3 children)
+
+a) Insert the letters S F E V D U J P O T into it in the given order. Show the tree after each insertion.
+
+b) Delete the above letters from the tree in the given order. Show the tree after each deletion.
+
+3. (15 pts.) Use STL's MULTIMAP class to add a map to the office hours project. Assume the professor uses the names of each student who attends office hour as the key value in a map and enters the topic he/she asked about. After 100 office hours he then generates an individualized report for each student in the form of a text file that delineates how many times they attended office hours in the 100 iterations and all the topics they came to office hours for.
+
+Notes:
+
+The student names can be actual names or "StudentX", where X is a number. Examples: Student1, Student2, etc.
+You can generate a random string of characters for the topic or create a list of actual topics in a file to pic from randomly.
+
+4. (5 points) Peer Review

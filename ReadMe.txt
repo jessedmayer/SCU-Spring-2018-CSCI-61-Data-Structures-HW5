@@ -1,0 +1,1 @@
+I cannot get get_name() or get_topic() to return a random line from their text files, no idea what's wrong. Everything else seems to work though.
